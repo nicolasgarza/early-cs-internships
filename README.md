@@ -9,5 +9,7 @@
 | Microsoft Explore | Software Engineering Intern | Multiple Locations | [Link](https://careers.microsoft.com/v2/global/en/exploremicrosoft) | Soon |
 | Two Sigma Freshman/Sophmore Internship | Software Engineering Intern | New York City | [Link](https://www.twosigma.com/careers/internships/) | Soon |
 | Uber STAR | Software Engineering, Data Science Intern | Multiple Locations | [Link](https://www.uber.com/us/en/careers/uberstar/) | Soon |
-| Plantir Path | Software Engineering Internship | New York, Washington DC | [Link](https://www.palantir.com/careers/students/path/) | Soon |
-| Cisco | Multiple Roles | Multiple Locations | [Link](https://www.cisco.com/c/en/us/about/careers/communities/students-and-new-graduates.html) | Soon |
+| Palantir Path | Software Engineering Internship | New York, Washington DC | [Link](https://www.palantir.com/careers/students/path/) | Soon |
+| Cisco | Multiple Roles | Multiple Locations | [Link](https://www.cisco.com/c/en/us/about/careers/communities/students-and-new-graduates.html) | Soon  || Citadel Launch | New York, NY | Software Engineering Intern | [Link](https://www.citadel.com/careers/students/) | Soon |
+| Duolingo Thrive | Multiple Locations | Software Engineering Intern | [Link](https://careers.duolingo.com/?type=Thrive%20Program) | Soon |
+| Deloitte Discovery | Multiple Locations | Software Engineering Intern | [Link](https://apply.deloitte.com/careers/SearchJobs/discovery%20internship?listFilterMode=1&jobRecordsPerPage=10&sort=relevancy) | Soon |
