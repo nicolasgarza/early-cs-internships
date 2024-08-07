@@ -14,5 +14,5 @@
 | Citadel Launch | New York, NY | Software Engineering Intern | [Link](https://www.citadel.com/careers/details/launch-2025-intern-us/) | July 31st |
 | Duolingo Thrive | Multiple Locations | Software Engineering Intern | [Link](https://careers.duolingo.com/?type=Thrive%20Program) | Soon |
 | Deloitte Discovery | Multiple Locations | Software Engineering Intern | [Link](https://apply.deloitte.com/careers/SearchJobs/discovery%20internship?listFilterMode=1&jobRecordsPerPage=10&sort=relevancy) | Soon |
-| Salesforce Futureforce | Multiple Locations | Software Engineering Intern | [Link](https://careers.salesforce.com/en/jobs/jr262842/summer-2025-intern-software-engineer/) | August 6th |
+| Salesforce Futureforce | <details><summary>**8 locations**</summary>Boston, MA</br>Seattle, WA</br>Indianapolis, IN</br>SF</br>Dallas, TX</br>Bellevue, WA</br>Atlanta, GA</br>Burlington, MA</details> | Software Engineering Intern | [Link](https://careers.salesforce.com/en/jobs/jr262842/summer-2025-intern-software-engineer/) | August 6th |
 | Capital One TEIP | McLean, Virginia | Software Engineering Intern | [Link](https://www.capitalonecareers.com/job/mclean/technology-early-internship-program-summer-2025/31238/68391445344) | August 5th |
