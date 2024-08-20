@@ -10,7 +10,6 @@
 | Two Sigma Freshman/Sophmore Internship | Software Engineering Intern | New York City | [Link](https://www.twosigma.com/careers/internships/) | Soon |
 | Uber STAR | Software Engineering, Data Science Intern | Multiple Locations | [Link](https://www.uber.com/us/en/careers/uberstar/) | Closed |
 | Palantir Path | Software Engineering Internship | New York, Washington DC | [Link](https://www.palantir.com/careers/students/path/) | Soon |
-| Cisco | Multiple Roles | Multiple Locations | [Link](https://www.cisco.com/c/en/us/about/careers/communities/students-and-new-graduates.html) | Soon |
 | Citadel Launch | New York, NY | Software Engineering Intern | [Link](https://www.citadel.com/careers/details/launch-2025-intern-us/) | July 31st |
 | Duolingo Thrive | Multiple Locations | Software Engineering Intern | [Link](https://careers.duolingo.com/?type=Thrive%20Program) | Soon |
 | Deloitte Discovery | 32 Locations | Consulting/SWE | [Link](https://apply.deloitte.com/careers/JobDetail/Deloitte-Consulting-Discovery-Intern-Sophomore-Summer-2025/189147) | Early August |
