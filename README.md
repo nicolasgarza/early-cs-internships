@@ -16,3 +16,4 @@
 | Salesforce Futureforce | San Francisco, CA | Software Engineering Intern | [Link](https://careers.salesforce.com/en/jobs/jr262842/summer-2025-intern-software-engineer/) | August 6th |
 | Capital One TEIP | McLean, Virginia | Software Engineering Intern | [Link](https://www.capitalonecareers.com/job/mclean/technology-early-internship-program-summer-2025/31238/68391445344) | Closed |
 | Coding It Forward | Remote | Fellowship | [Link](https://codingitforward.com/fellowship) | Mid October |
+| New Technologists | Redmond, WA | 7-week Academy | [Link](https://newtechnologists.com/apply.html) | Early January |
