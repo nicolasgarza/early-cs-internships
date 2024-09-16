@@ -4,7 +4,7 @@
 | ------- | ------------------ | ----------- | ---------------- | ----------- |
 | Google STEP | Software Engineering Intern | Multiple Locations | [Link](https://buildyourfuture.withgoogle.com/programs/step) | Soon |
 | Meta University | Software Engineering Intern | Multiple Locations | [Link](https://www.metacareers.com/careerprograms/pathways/metauniversity) | Soon |
-| NVIDIA Ignite | Software Engineering Intern | Multiple Locations | [Link](https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/) | Soon |
+| NVIDIA Ignite | Software Engineering Intern | Santa Clara, CA | [Link](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2025-Ignite-Internships--Software-Engineering_JR1987620) | September 16th |
 | Amazon Propel Program | Software Engineering Intern | Multiple Locations | Not Released Yet | Soon |
 | Microsoft Explore | Software Engineering Intern | Redmond, Washington | [Link](https://careers.microsoft.com/v2/global/en/exploremicrosoft) | September 30th |
 | Two Sigma Freshman/Sophomore Internship | Software Engineering Intern | New York City | [Link](https://www.twosigma.com/careers/internships/) | Soon |
