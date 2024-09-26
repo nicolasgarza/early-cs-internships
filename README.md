@@ -8,7 +8,7 @@
 | Amazon Propel Program | Software Engineering Intern | Multiple Locations | Not Released Yet | Soon |
 | Microsoft Explore | Software Engineering Intern | Redmond, Washington | [Link](https://careers.microsoft.com/v2/global/en/exploremicrosoft) | September 30th |
 | Two Sigma Freshman/Sophomore Internship | Software Engineering Intern | New York City | [Link](https://www.twosigma.com/careers/internships/) | Soon |
-| Uber STAR | Software Engineering, Data Science Intern | Multiple Locations | [Link](https://www.uber.com/us/en/careers/uberstar/) | Closed |
+| Uber STAR | Software Engineering | San Francisco, CA | [Link](https://university-uber.icims.com/jobs/135639/job) | September 26th |
 | Palantir Path | Software Engineering Intern | New York, Washington DC | [Link](https://www.palantir.com/careers/students/path/) | Soon |
 | Citadel Launch | Software Engineering Intern | New York, NY | [Link](https://www.citadel.com/careers/details/launch-2025-intern-us/) | July 31st |
 | Duolingo Thrive | Software Engineering Intern | Pittsburgh, PA | [Link](https://job-boards.greenhouse.io/duolingo/jobs/7636988002) | September 23rd |
