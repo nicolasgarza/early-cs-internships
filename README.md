@@ -2,7 +2,7 @@
 
 | Company | Internship Role(s) | Location(s) | Application/Link | Date Posted |
 | ------- | ------------------ | ----------- | ---------------- | ----------- |
-| Google STEP | Software Engineering Intern | Multiple Locations | [Link]([https://buildyourfuture.withgoogle.com/programs/step](https://www.google.com/about/careers/applications/jobs/results/118497704278926022-step-intern-second-year-bachelors-student-summer-2025)) | September 30th |
+| Google STEP | Software Engineering Intern | Multiple Locations | [Link](https://www.google.com/about/careers/applications/jobs/results/118497704278926022-step-intern-second-year-bachelors-student-summer-2025) | September 30th |
 | Meta University | Software Engineering Intern | Menlo Park, CA | [Link](https://www.metacareers.com/v2/jobs/995447835688062/) | September 25th |
 | NVIDIA Ignite | Software Engineering Intern | Santa Clara, CA | [Link](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2025-Ignite-Internships--Software-Engineering_JR1987620) | September 16th |
 | Amazon Propel Program | Software Engineering Intern | Multiple Locations | Not Released Yet | Soon |
