@@ -6,7 +6,7 @@
 | Meta University | Software Engineering Intern | Menlo Park, CA | [Link](https://www.metacareers.com/v2/jobs/995447835688062/) | September 25th |
 | NVIDIA Ignite | Software Engineering Intern | Santa Clara, CA | [Link](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2025-Ignite-Internships--Software-Engineering_JR1987620) | September 16th |
 | Amazon Propel Program | Software Engineering Intern | Multiple Locations | Not Released Yet | Soon |
-| Microsoft Explore | Software Engineering Intern | Redmond, Washington | [Link](https://careers.microsoft.com/v2/global/en/exploremicrosoft) | September 30th |
+| Microsoft Explore | Software Engineering Intern | Redmond, Washington | [Link](https://jobs.careers.microsoft.com/global/en/job/1773452/Explore-Program-Internship-Opportunities:-Second-Year-Students,-Redmond) | October 1st |
 | Two Sigma Freshman/Sophomore Internship | Software Engineering Intern | New York City | [Link](https://www.twosigma.com/careers/internships/) | Soon |
 | Uber STAR | Software Engineering | San Francisco, CA | [Link](https://university-uber.icims.com/jobs/135639/job) | September 26th |
 | Palantir Path | Software Engineering Intern | New York, Washington DC | [Link](https://www.palantir.com/careers/students/path/) | Soon |
