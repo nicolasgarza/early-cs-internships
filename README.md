@@ -15,5 +15,5 @@
 | Deloitte Discovery | Consulting/SWE Intern | 32 Locations | [Link](https://apply.deloitte.com/careers/JobDetail/Deloitte-Consulting-Discovery-Intern-Sophomore-Summer-2025/189147) | Early August |
 | Salesforce Futureforce | Software Engineering Intern | San Francisco, CA | [Link](https://careers.salesforce.com/en/university/internships/) | Soon |
 | Capital One TEIP | Software Engineering Intern | McLean, Virginia | [Link](https://www.capitalonecareers.com/job/mclean/technology-early-internship-program-summer-2025/31238/68391445344) | Closed |
-| Coding It Forward | Fellowship | Remote | [Link](https://codingitforward.com/fellowship) | Mid October |
+| Coding It Forward | Fellowship | Remote | [Link](https://codingitforward.com/fellowship) | October 15th |
 | New Technologists | 7-week Academy | Redmond, WA | [Link](https://newtechnologists.com/apply.html) | Early January |
